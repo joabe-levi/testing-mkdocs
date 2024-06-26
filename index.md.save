@@ -1,0 +1,45 @@
+
+# Processo Administrativo
+
+## Como devemos criar um processo administrativo
+
+### Primeiro passo
+For full documenta
+tion visit [mkdocs.org](https://www.mkdocs.org).
+
+Minha image [Image]('./images.png')
+
+## Commands
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
+
+~~tachado~~
+
+## Tabela
+
+| Nome  | Idade |
+| ----  | ----- |
+| Joabe |  28   |
+| Alley |  30   |
+| magela | 87   |
+
+## Passos para se criar um dfd
+
+ - [ ] clicar no botão de novo dfd
+ - [ ] Informaasdi ask dhas j
+ - [x] criar os itens
+
+### Emojis
+
+:snake::heart:
+
+## Project layout
+
+    mkdocs.yml    # The configuration file.
+    :snake:
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
