@@ -1,0 +1,5 @@
+site_name: Meu projeto com Mkdocs
+
+markdown_extensions:
+   - pymdownx.tasklist  # Lista de tarefas
+

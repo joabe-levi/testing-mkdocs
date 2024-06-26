@@ -1,0 +1,34 @@
+site_name: M2A Tecnologia
+
+site_url: http://precodereferencia.m2atecnologia.com.br/usuario/login/
+
+theme:
+  name: material
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7 
+        name: Modo Noturno
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Modo Claro
+
+nav:
+    - Solicitação de Despesa: index.md 
+    - Processo Administrativo: pagina_2.md
+    - Projetos/Atividades: batatinha/batatinha_index.md
+
+markdown_extensions:
+   - pymdownx.tasklist
+   - pymdownx.emoji
+   - pymdownx.tilde
+   - pymdownx.highlight
+   - pymdownx.superfences
